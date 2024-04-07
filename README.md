@@ -1,4 +1,4 @@
-# tstoreflutter
+# T-store [Flutter]
 
 A new Flutter project.
 
